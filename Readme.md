@@ -1,12 +1,12 @@
-**Valorant Match Data – EDA**
-Overview
+# **Valorant Match Data – EDA**
+##Overview
 
 This project uses match-level data from Valorant to understand basic player performance and match outcomes.
 Each row in the dataset represents one competitive match played by a single player.
 
 The focus of this phase is data understanding and visualization, not advanced analysis.
 
-*Dataset Summary*
+# *Dataset Summary*
 
 ~1,000 matches
 
@@ -14,7 +14,7 @@ The focus of this phase is data understanding and visualization, not advanced an
 
 Mix of numeric and categorical variables
 
-*Key attributes include:*
+# *Key attributes include:*
 
 Match context: date, episode, act, map, agent, rank
 
@@ -22,7 +22,7 @@ Performance metrics: kills, deaths, assists, KDR, ACS, damage, headshot %
 
 Outcome metrics: win/loss, round wins, round losses
 
-*Data Preparation*
+# *Data Preparation*
 
 Verified no missing values
 
